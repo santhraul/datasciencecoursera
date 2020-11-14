@@ -25,6 +25,13 @@ The mean of x<sub>2</sub> is 6675.5 and the range is 8836 - 4761 is 4075. </br>
 
 x<sub>2</sub><sup>(4)</sup> = (4761 - 6675.5) / 4075 = <b>-0.47</b>
 
+or </br>
+
+The mean of x<sub>1</sub> is 81 and the range is 94 - 69 is 25 </br>
+
+x<sub>1</sub><sup>(1)</sup> = (89 - 81) / 25 = <b>0.32</b>
+
+
 Question 2
 ----------
 You run gradient descent for 15 iterations
